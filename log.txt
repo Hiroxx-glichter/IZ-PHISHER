@@ -1,0 +1,3 @@
+Site: Netflix | User: locox@gmali.com | Pass: ISRE"=!"#
+Site: Netflix | User: adada | Pass: ada
+Site: Spotify | User: adadad | Pass: adada
