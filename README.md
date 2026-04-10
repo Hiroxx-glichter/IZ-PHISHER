@@ -1,7 +1,10 @@
 # IZ-PHISHER v3.0 
 
 A lightweight, automated phishing engine developed for educational purposes and authorized security testing. It features multiple social media templates with a realistic UI and integrated Cloudflare tunneling.
-
+# Evidence 📸
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83572498-2955-4965-acc4-32a48dc3c6b6" alt="IZ-PHISHER Preview" width="700">
+</p>
 ## 🚀 Features
 * **11+ Targets:** Includes Netflix, Spotify, Instagram, Facebook, Google, and more.
 * **Realistic UI:** Custom CSS to replicate official login pages, including dynamic backgrounds for Netflix.
